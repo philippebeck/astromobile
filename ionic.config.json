@@ -1,0 +1,7 @@
+{
+  "name": "astromobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
